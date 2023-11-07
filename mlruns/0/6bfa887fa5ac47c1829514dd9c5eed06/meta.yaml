@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/Test/salary%20prediction/mlruns/0/6bfa887fa5ac47c1829514dd9c5eed06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bfa887fa5ac47c1829514dd9c5eed06
+run_name: sassy-ram-50
+run_uuid: 6bfa887fa5ac47c1829514dd9c5eed06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697286249523
+status: 1
+tags: []
+user_id: macbook

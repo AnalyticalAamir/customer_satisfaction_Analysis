@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/Test/salary%20prediction/mlruns/0/f83185e9d1a849b2a1016df9812e7715/artifacts
+end_time: 1697282498868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f83185e9d1a849b2a1016df9812e7715
+run_name: treasured-eel-905
+run_uuid: f83185e9d1a849b2a1016df9812e7715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697282498264
+status: 3
+tags: []
+user_id: macbook

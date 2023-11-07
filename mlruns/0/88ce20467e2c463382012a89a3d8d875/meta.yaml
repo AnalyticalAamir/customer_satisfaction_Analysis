@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/Test/salary%20prediction/mlruns/0/88ce20467e2c463382012a89a3d8d875/artifacts
+end_time: 1697282235790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ce20467e2c463382012a89a3d8d875
+run_name: victorious-sow-672
+run_uuid: 88ce20467e2c463382012a89a3d8d875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697282235744
+status: 4
+tags: []
+user_id: macbook

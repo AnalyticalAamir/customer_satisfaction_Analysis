@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/Test/salary%20prediction/mlruns/0/8904527fdec040deb793b30aba8e2305/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8904527fdec040deb793b30aba8e2305
+run_name: debonair-moose-485
+run_uuid: 8904527fdec040deb793b30aba8e2305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697285624810
+status: 1
+tags: []
+user_id: macbook

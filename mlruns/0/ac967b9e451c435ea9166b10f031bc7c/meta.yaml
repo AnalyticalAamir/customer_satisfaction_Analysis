@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/Test/salary%20prediction/mlruns/0/ac967b9e451c435ea9166b10f031bc7c/artifacts
+end_time: 1697285222575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac967b9e451c435ea9166b10f031bc7c
+run_name: orderly-moose-240
+run_uuid: ac967b9e451c435ea9166b10f031bc7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697285221208
+status: 3
+tags: []
+user_id: macbook

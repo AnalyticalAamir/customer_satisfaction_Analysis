@@ -1,0 +1,8 @@
+digest: 589e0221
+name: dataset
+profile: '{"num_rows": 75, "num_elements": 150}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Age"}, {"type": "double",
+  "name": "Years_of_Experience"}]}'
+source: '{"tags": {"mlflow.user": "macbook", "mlflow.source.name": "/Users/macbook/Desktop/Test/salary
+  prediction/run_pipeline.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code
